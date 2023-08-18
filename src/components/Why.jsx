@@ -30,7 +30,10 @@ export default function Why() {
               contractuales.
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex text-white bg-[#F86061] border-0 py-2 px-6 focus:outline-none hover:bg-[#da1d1d] rounded text-lg">
+              <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
+                Desde $747.50
+              </p>
+              <button className="inline-flex text-white bg-indigo-600 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-800 rounded text-lg">
                 <a href="https://wa.me/50378698340">Agendar cita</a>
               </button>
             </div>
@@ -66,7 +69,10 @@ export default function Why() {
               para identificar y resolver problemas en proyectos existentes.
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex text-white bg-[#F86061] border-0 py-2 px-6 focus:outline-none hover:bg-[#da1d1d] rounded text-lg">
+              <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
+                Desde $4030
+              </p>
+              <button className="inline-flex text-white bg-indigo-600 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-800 rounded text-lg">
                 <a href="https://wa.me/50378698340">Agendar cita</a>
               </button>
             </div>
@@ -103,7 +109,10 @@ export default function Why() {
               para determinar su eficacia y recomendar mejoras.
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex text-white bg-[#F86061] border-0 py-2 px-6 focus:outline-none hover:bg-[#da1d1d] rounded text-lg">
+              <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
+                Desde $1053
+              </p>
+              <button className="inline-flex text-white bg-indigo-600 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-800 rounded text-lg">
                 <a href="https://wa.me/50378698340">Agendar cita</a>
               </button>
             </div>
@@ -138,7 +147,10 @@ export default function Why() {
               perdida o eliminada.
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex text-white bg-[#F86061] border-0 py-2 px-6 focus:outline-none hover:bg-[#da1d1d] rounded text-lg">
+              <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
+                Desde $405
+              </p>
+              <button className="inline-flex text-white bg-indigo-600 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-800 rounded text-lg">
                 <a href="https://wa.me/50378698340">Agendar cita</a>
               </button>
             </div>
