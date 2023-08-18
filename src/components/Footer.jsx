@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <>
-      <footer className="text-gray-600 body-font">
+      <footer id="contacto" className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto max-w-7xl">
           <div className="flex flex-wrap md:text-left text-center order-first">
             <div className="lg:w-1/3 md:w-1/2 w-full px-4">
@@ -24,7 +24,10 @@ export default function Footer() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="#about" className="text-gray-600 hover:text-gray-800">
+                  <Link
+                    href="#about"
+                    className="text-gray-600 hover:text-gray-800"
+                  >
                     Acerca de
                   </Link>
                 </li>
