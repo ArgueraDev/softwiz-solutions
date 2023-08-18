@@ -28,6 +28,17 @@ export default function Why() {
               revisan registros electrónicos y otras pruebas digitales para
               determinar si las partes han cumplido con sus obligaciones
               contractuales.
+              <br />
+              <br />
+              Objetivos del Servicio:
+              <br />• Evaluar si los contratos se han cumplido utilizando
+              técnicas y herramientas informáticas forenses.
+              <br />• Revisar los registros electrónicos y otras pruebas
+              digitales para determinar si las partes han cumplido con sus
+              obligaciones contractuales.
+              <br />• Proporciona una imagen objetiva y precisa del cumplimiento
+              del contrato.
+              <br />• Ayudar a resolver cualquier disputa contractual.
             </p>
             <div className="flex justify-center">
               <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
@@ -67,6 +78,23 @@ export default function Why() {
               colaboración con los equipos de desarrollo para ayudar a definir,
               planificar y ejecutar proyectos de software exitosos, así como
               para identificar y resolver problemas en proyectos existentes.
+              <br />
+              <br />
+              Objetivos del Servicio:
+              <br />• Ayudar a definir y planificar proyectos de software
+              exitosos mediante la identificación de requisitos, riesgos y
+              recursos necesarios.
+              <br />• Proporcionar orientación y recomendaciones para mejorar la
+              calidad del software y la eficiencia del desarrollo.
+              <br />• Ayude a identificar y resolver problemas en proyectos de
+              software existentes, incluida la gestión de riesgos y la
+              resolución de problemas técnicos.
+              <br />• Brinda asesoramiento sobre las últimas tendencias y
+              tecnologías en el desarrollo de software, para que las empresas
+              estén al tanto de la evolución del mercado.
+              <br />• Capacitar y asesorar a los equipos de desarrollo en
+              métodos de desarrollo ágiles y buenas prácticas de gestión de
+              proyectos.
             </p>
             <div className="flex justify-center">
               <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
@@ -107,6 +135,18 @@ export default function Why() {
               vulnerabilidades y riesgos potenciales. Esto incluye revisar la
               infraestructura, los procesos y los procedimientos de seguridad
               para determinar su eficacia y recomendar mejoras.
+              <br />
+              <br />
+              Objetivos del Servicio:
+              <br />• Identificar posibles vulnerabilidades y riesgos en la
+              infraestructura, procesos y procedimientos de seguridad de la
+              empresa.
+              <br />• Evaluar la efectividad de los controles de seguridad
+              existentes y hacer recomendaciones para mejorar.
+              <br />• Ayudar a las empresas a cumplir con las normas y
+              regulaciones de seguridad de la información aplicables.
+              <br />• Proteger los datos y sistemas de la empresa contra
+              amenazas internas y externas.
             </p>
             <div className="flex justify-center">
               <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
@@ -145,6 +185,18 @@ export default function Why() {
               en el campo de la informática forense, lo que nos permite brindar
               soluciones efectivas y confiables para recuperar información
               perdida o eliminada.
+              <br />
+              <br />
+              Objetivos del Servicio:
+              <br />• El objetivo principal es recuperar la mayor cantidad
+              posible de datos perdidos o eliminados de manera efectiva y
+              confiable.
+              <br />• Garantizar que los datos recuperados se mantengan intactos
+              y no se vean alterados durante el proceso de recuperación.
+              <br />• Garantizar la confidencialidad y la privacidad de los
+              datos y evidencias manipulados durante el proceso de recuperación.
+              <br />• Se busca proporcionar un servicio de alta calidad y
+              satisfacer las necesidades y expectativas de los clientes.
             </p>
             <div className="flex justify-center">
               <p className="inline-flex border-0 py-2 px-6 focus:outline-none text-lg">
